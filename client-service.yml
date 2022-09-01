@@ -3,7 +3,7 @@ server:
 spring:
   data:
     mongodb:
-      uri: mongodb://localhost:27017/businessbanking
+      uri: mongodb://127.0.0.1:27017/businessbanking
 eureka:
   client:
     serviceUrl:
